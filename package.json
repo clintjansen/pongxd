@@ -1,0 +1,20 @@
+{
+  "name": "letspong",
+  "version": "1.0.0",
+  "description": "Pong with sockets",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pong",
+    "socket",
+    "letscollect"
+  ],
+  "author": "Clint Jansen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.1"
+  }
+}
